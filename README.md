@@ -6,7 +6,7 @@ https://ga-project5.herokuapp.com/
 
 Disclaimer: This model doesn't work that well. Good learning experience, though.
 
-**The remainder of the readme below is left unchanged from our projects submission.**
+**The remainder of the readme below is left unchanged from project submission.**
 
 ## Contents
 
